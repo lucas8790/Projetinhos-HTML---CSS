@@ -1,0 +1,57 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.cabecalho {
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    color: #FFFF;
+    border: #FFFF;
+}
+
+.corpo {
+    margin: 0;
+    padding: 0;
+    background-color: #1B003A;
+}
+
+.corpo-google {
+    display: flex;
+    justify-content: center;
+    color: #FFFF;
+}
+
+.image-google {
+    height: 20px;
+}
+
+.image-facebook {
+    height: 20px;
+}
+
+.corpo-facebook {
+    display: flex;
+    justify-content: center;
+    color: #FFFF;
+    margin-top: 40px;
+}
+
+.ou {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+
+}
+
+.box-email {
+    display: flex;
+    justify-content: center; 
+    margin-top: 40px;
+}
+
+.box-password {
+
+}
